@@ -1,29 +1,30 @@
-<div align="center">
-  <h1>Aulas Antigas 2024</h1>
-  <p>Material de estudo e exercícios de programação do ano de 2024. Repositório de consulta para revisão de conceitos fundamentais.</p>
-  <p><strong>Material de referência para estudos.</strong></p>
-</div>
+# Aulas de 2024
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Portugol-333333?style=flat-square" /> <img src="https://img.shields.io/badge/JavaScript-333333?style=flat-square" /> <img src="https://img.shields.io/badge/HTML-333333?style=flat-square" />
-</div>
+Acervo de aulas e atividades de Informática, Office e design gráfico, organizado por assunto para consulta e revisão.
 
-<br>
+## Navegue pelo material
 
-## 🚀 Sobre
+| Assunto | Pasta |
+| --- | --- |
+| Introdução e apresentações de turma | [DIA 1](DIA%201/) |
+| Windows | [WINDOWS](WINDOWS/) |
+| Word | [WORD](WORD/) |
+| Excel | [EXCEL](EXCEL/) |
+| PowerPoint | [POWERPOINT](POWERPOINT/) |
+| CorelDRAW | [AULAS CORELDRAW](AULAS%20CORELDRAW/) |
+| Illustrator | [AULAS ILLUSTRATOR](AULAS%20ILLUSTRATOR/) |
+| Photoshop | [AULAS PHOTOSHOP](AULAS%20PHOTOSHOP/) |
+| Revisão | [REVISÃO](REVIS%C3%83O/) |
+| Revisões | [REVISÕES](REVIS%C3%95ES/) |
 
-Material de estudo e exercícios de programação do ano de 2024. Repositório de consulta para revisão de conceitos fundamentais.
+## Como consultar
 
-**Resultado:** Material de referência para estudos.
+Abra a pasta do assunto e escolha o material. O acervo inclui apresentações, documentos, PDFs e arquivos de apoio; baixe os arquivos que o GitHub não conseguir visualizar.
 
-## 🛠️ Tecnologias
+Os materiais são de 2024 e podem conter informações incompletas ou que precisem de atualização.
 
-Portugol, JavaScript, HTML
+[Portfólio de Leonilson Souza](https://mrleorobot.github.io/)
 
-## 📁 Repositório
-
-Parte do portfólio de <a href="https://mrleorobot.github.io">Leonilson Souza</a>.
-
-## 📝 Licença
+## Licença
 
 MIT © Leonilson Souza
